@@ -1,5 +1,6 @@
 ## Hi I'm Hwiseong
 
+I study Computer Science at Dalhousie University
 <!--
 **hwiseongahn/hwiseongahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
